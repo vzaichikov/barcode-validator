@@ -20,7 +20,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "vzaichikov\\": "src/"
+            "vzaichikov": "src/"
         }
     },
     "minimum-stability": "dev",
