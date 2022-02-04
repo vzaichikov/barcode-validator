@@ -8,7 +8,7 @@
  * @version   v1.1.3
  */
 
-namespace hobotix
+namespace vzaichikov
 
 	/**
 	 * A PHP class for validating EAN, IMEI, ISBN, GTIN, SSCC, GSIN, UPC and other similar codes.
