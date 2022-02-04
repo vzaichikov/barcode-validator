@@ -19,8 +19,9 @@
         }
     ],
     "autoload": {
+        "classmap": ["barcode-validator.php"],
         "psr-0": {
-            "vzaichikov": "src/"
+            "BarcodeValidation": "namespaced/"
         }
     },
     "minimum-stability": "dev",
