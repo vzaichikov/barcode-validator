@@ -19,10 +19,7 @@
         }
     ],
     "autoload": {
-        "classmap": ["barcode-validator.php"],
-        "psr-0": {
-            "BarcodeValidation": "namespaced/"
-        }
+        "classmap": ["barcode-validator.php"]     
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
