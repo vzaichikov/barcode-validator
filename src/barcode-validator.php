@@ -8,7 +8,8 @@
  * @version   v1.1.3
  */
 
-if (!class_exists('BarcodeValidator')) {
+namespace hobotix
+
 	/**
 	 * A PHP class for validating EAN, IMEI, ISBN, GTIN, SSCC, GSIN, UPC and other similar codes.
 	 * 
@@ -552,4 +553,3 @@ if (!class_exists('BarcodeValidator')) {
 			}
 		}
 	}
-}
